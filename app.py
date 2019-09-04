@@ -4,15 +4,15 @@ import dash_html_components as html
 import plotly.graph_objs as go
 
 ########### Define your variables
-beers=['Chesapeake Stout', 'Snake Dog IPA', 'Imperial Porter', 'Double Dog IPA']
-ibu_values=[35, 60, 85, 75]
-abv_values=[5.4, 7.1, 9.2, 4.3]
-color1='lightblue'
-color2='darkgreen'
-mytitle='Beer Comparison'
-tabtitle='ale!'
-myheading='Flying Dog Beers'
-label1='IBU'
+beers=['France', 'Italy', 'California', 'Argentina', 'Australia']
+ibu_values=[90, 95, 93, 88, 85]
+abv_values=[14, 13, 16, 15, 14]
+color1='lightred'
+color2='darkred'
+mytitle='Wine Comparison'
+tabtitle='Wine!'
+myheading='Global Wines'
+label1='Taste'
 label2='ABV'
 githublink='https://github.com/austinlasseter/flying-dog-beers'
 sourceurl='https://www.flyingdog.com/beers/'
