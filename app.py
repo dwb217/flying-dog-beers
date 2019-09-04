@@ -7,8 +7,8 @@ import plotly.graph_objs as go
 beers=['France', 'Italy', 'California', 'Argentina', 'Australia']
 ibu_values=[90, 95, 93, 88, 85]
 abv_values=[14, 13, 16, 15, 14]
-color1='lightred'
-color2='darkred'
+color1='red'
+color2='blue'
 mytitle='Wine Comparison'
 tabtitle='Wine!'
 myheading='Global Wines'
